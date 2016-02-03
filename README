@@ -1,0 +1,1 @@
+We added two more C files: "vector.h" in folder "include" and "vector.c" in folder "src". Makefile has been modified accordingly.
